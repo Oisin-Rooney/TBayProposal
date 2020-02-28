@@ -11,8 +11,9 @@ The location of the buoy.
 
 **Requirements**
 
-- LPWAN enabled micrrocontrolled (Pycom SiPy/LoPy)
-- LiPo battery (high capacity)
-- Waterproof temperature Sensor (DS18B20)
+- LPWAN enabled micrrocontrolled (Pycom SiPy/LoPy).
+- LiPo battery (high capacity).
+- Waterproof temperature Sensor (DS18B20).
 - Ocean proof housing allowing for exposure of antenna and temperature sensor. (3d printed).
-- Optional: accelerometer (Adafruit Industries LLC 	1528-1120-ND), GPS (Adafruit Ultimate GLONASS (GNSS) 124-5481)
+- Accelerometer (Adafruit Industries LLC 1528-1120-ND).
+- GPS (Adafruit Ultimate GLONASS (GNSS) 124-5481).
